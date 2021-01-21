@@ -18,7 +18,7 @@ export default function App() {
         params: {
           part: "snippet",
           maxResults: 5,
-          key: "AIzaSyBYv3OM9dohRcZhiA2jlCLiECuyUbtp86M",
+          key: '[Api Key]',
           q: { query },
         },
       });
